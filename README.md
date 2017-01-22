@@ -1,2 +1,2 @@
 # SoildRun
-Code for Solid Run i4Pro
+Code for Solid Run Cubox i4Pro
